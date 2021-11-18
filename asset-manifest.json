@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/webex-basic-oauth-sample/static/css/main.1b8d8154.chunk.css",
-    "main.js": "/webex-basic-oauth-sample/static/js/main.1f88daed.chunk.js",
-    "main.js.map": "/webex-basic-oauth-sample/static/js/main.1f88daed.chunk.js.map",
-    "runtime-main.js": "/webex-basic-oauth-sample/static/js/runtime-main.e91600c4.js",
-    "runtime-main.js.map": "/webex-basic-oauth-sample/static/js/runtime-main.e91600c4.js.map",
-    "static/js/2.23356f29.chunk.js": "/webex-basic-oauth-sample/static/js/2.23356f29.chunk.js",
-    "static/js/2.23356f29.chunk.js.map": "/webex-basic-oauth-sample/static/js/2.23356f29.chunk.js.map",
-    "static/js/3.c2bc0a23.chunk.js": "/webex-basic-oauth-sample/static/js/3.c2bc0a23.chunk.js",
-    "static/js/3.c2bc0a23.chunk.js.map": "/webex-basic-oauth-sample/static/js/3.c2bc0a23.chunk.js.map",
-    "index.html": "/webex-basic-oauth-sample/index.html",
-    "static/css/main.1b8d8154.chunk.css.map": "/webex-basic-oauth-sample/static/css/main.1b8d8154.chunk.css.map",
-    "static/js/2.23356f29.chunk.js.LICENSE.txt": "/webex-basic-oauth-sample/static/js/2.23356f29.chunk.js.LICENSE.txt"
+    "main.css": "/webex-react-oauth-sample/static/css/main.1b8d8154.chunk.css",
+    "main.js": "/webex-react-oauth-sample/static/js/main.26caa089.chunk.js",
+    "main.js.map": "/webex-react-oauth-sample/static/js/main.26caa089.chunk.js.map",
+    "runtime-main.js": "/webex-react-oauth-sample/static/js/runtime-main.7a5cf5b9.js",
+    "runtime-main.js.map": "/webex-react-oauth-sample/static/js/runtime-main.7a5cf5b9.js.map",
+    "static/js/2.26561fb3.chunk.js": "/webex-react-oauth-sample/static/js/2.26561fb3.chunk.js",
+    "static/js/2.26561fb3.chunk.js.map": "/webex-react-oauth-sample/static/js/2.26561fb3.chunk.js.map",
+    "static/js/3.3c839622.chunk.js": "/webex-react-oauth-sample/static/js/3.3c839622.chunk.js",
+    "static/js/3.3c839622.chunk.js.map": "/webex-react-oauth-sample/static/js/3.3c839622.chunk.js.map",
+    "index.html": "/webex-react-oauth-sample/index.html",
+    "static/css/main.1b8d8154.chunk.css.map": "/webex-react-oauth-sample/static/css/main.1b8d8154.chunk.css.map",
+    "static/js/2.26561fb3.chunk.js.LICENSE.txt": "/webex-react-oauth-sample/static/js/2.26561fb3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e91600c4.js",
-    "static/js/2.23356f29.chunk.js",
+    "static/js/runtime-main.7a5cf5b9.js",
+    "static/js/2.26561fb3.chunk.js",
     "static/css/main.1b8d8154.chunk.css",
-    "static/js/main.1f88daed.chunk.js"
+    "static/js/main.26caa089.chunk.js"
   ]
 }
