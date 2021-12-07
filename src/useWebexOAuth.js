@@ -2,8 +2,8 @@ import { useEffect, useState } from 'react';
 import queryString from 'query-string';
 
 /**
- * This function captures the "code" querystring returned from an OAuth call
- * and stores it in react state, then clears the querystring for security.
+ * This function captures the "access_token" hash value returned from an implicit grant OAuth call
+ * and stores it in react state, then clears the hash values for security.
  * 
  * @returns {Hook}
  */
